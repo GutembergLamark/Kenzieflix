@@ -48,8 +48,8 @@ main h1{
 
 .box{
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 160px;
+    height: 160px;
     overflow: hidden;
     transition: all 0.3s;
 }
@@ -71,7 +71,7 @@ main h1{
 .list-users figcaption{
     text-align: center;
     margin-top: 10px;
-    font-size: 0.8rem;
+    font-size: 1rem;
     opacity: 0.5;
     transition: all 0.3s;
 }
